@@ -1,0 +1,40 @@
+{
+  "carros": [
+    {
+      "id": "1",
+      "nome": "Ferrari 488 GTB",
+      "valor": "$250,000",
+      "imagem": "https://i.pinimg.com/564x/0d/41/7d/0d417d1f4d57c50359235f32702bced2.jpg"
+    },
+    {
+      "id": "7",
+      "nome": "Puma GTS 1979",
+      "valor": "$69.900",
+      "imagem": "https://img.olx.com.br/images/36/365461944297995.jpg"
+    },
+    {
+      "id": "8",
+      "nome": "Buggy Woody",
+      "valor": "$30.999",
+      "imagem": "https://img.olx.com.br/images/81/815456462917810.jpg"
+    },
+    {
+      "id": "9",
+      "nome": "kombi 83",
+      "valor": "$160.000",
+      "imagem": "https://img.olx.com.br/images/44/446308348788555.jpg"
+    },
+    {
+      "id": "10",
+      "nome": "Dodge Two Brothers 1933 ",
+      "valor": "$145.000",
+      "imagem": "https://img.olx.com.br/images/92/929456702053015.jpg"
+    },
+    {
+      "nome": "Diogo bispo",
+      "valor": "88888",
+      "imagem": "https://i.pinimg.com/564x/0d/41/7d/0d417d1f4d57c50359235f32702bced2.jpg",
+      "id": "roApBkO"
+    }
+  ]
+}
